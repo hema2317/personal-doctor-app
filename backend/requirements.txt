@@ -1,0 +1,7 @@
+flask
+python-dotenv
+openai
+requests
+pyjwt
+fpdf2
+flask-cors
